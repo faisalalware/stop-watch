@@ -1,5 +1,5 @@
 # Stop Watch
 
-A Stop Watch built using HTML, CSS & Javascript
+A Stop Watch built with HTML, CSS & Javascript
 
 ![screenshot](images/screenshot.png)
